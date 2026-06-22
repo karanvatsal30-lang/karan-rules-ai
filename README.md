@@ -1,4 +1,4 @@
-# Karan's rules of AI– Ethical AI Guidelines
+# Karan Vatsal's rules of AI– Ethical AI Guidelines
 A Contemporary Guide to Ethical AI for 2026
 A framework of ethical guidelines inspired by Asimov’s Laws, modernized for developers and researchers. These rules promote harm prevention, transparency, fairness, and continuous learning in AI systems.
 Artificial Intelligence must be guided by principles that ensure safety, fairness, and transparency.  
